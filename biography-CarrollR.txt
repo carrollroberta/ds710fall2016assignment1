@@ -15,4 +15,4 @@ Your first assignment is to use GitHub to submit some autobiographical informati
 6.  What do you hope to learn in this class?
     Please see answer 2. In addition, I want to become a Data Scientist.    
 7.  Is there anything else you would like to share with us?
-    I have a Master in Enterprise Software Architecture.     
+    I have a Master in Enterprise Software Architecture.   
